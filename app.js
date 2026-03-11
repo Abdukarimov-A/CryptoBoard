@@ -39,6 +39,6 @@ login.addEventListener('click', () => {
     )
 
     if(found){
-        window.location.href = "./index.html"
+        window.location.href = "./main.html"
     }
 })
